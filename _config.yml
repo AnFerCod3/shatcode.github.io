@@ -1,15 +1,15 @@
-title: Hacker Plus
-author: CaptainIRS
-description: The Hacker Plus Theme
+title: ShatCode Blog
+author: ShatCode
+description: My own hacking blog
 google_analytics:
 google_site_verification_content: 
-disqus_forum_shortname: captainirs-github-io
+disqus_forum_shortname: shatcode-github-io
 
 #Usernames and badges
 htb_badge_no:
 thm_badge_no:
 show_thm_htb_badges_in_nav: false
-github_username: CaptainIRS
+github_username: ShatCode
 gitlab:
 medium:
 stackoverflow:
@@ -17,7 +17,7 @@ hacker_news:
 linkedin: rinish-sam
 twitch:
 youtube:
-twitter: CaptainIRS
+twitter: ShatCode
 facebook:
 instagram:
 reddit:
